@@ -1,3 +1,7 @@
+/**
+ * C3 = 1 StringBuffer
+ * C17 = 9 Задано текст та масив слів. Підрахувати у скількох реченнях зустрічається кожне слово масиву.
+ */
 import java.util.ArrayList;
 import java.util.List;
 
